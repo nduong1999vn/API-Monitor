@@ -1,5 +1,5 @@
 # API Monitoring tool
-Features:
+### Features:
 ```
 1. Test APIs in the system once every 10 minutes ( The time can be changed )
 2. If errors are found, error messages are generated
@@ -7,7 +7,7 @@ Features:
 4. Send error messages to a designated Slack channel
 ```
 
-# How to run:
+### How to run:
 ```
 1. Create a config file based on the config/config-template.ini file
 2. Put the config file link in to the CONFIG_FILE variable in the monitor.py file
